@@ -1,40 +1,244 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723638634750 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723638930159 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.19): 1723638637811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723638933215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.19): 1723638640884 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723638936276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.19): 1723638643946 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723638939337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.19): 1723638647005 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723638942400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.19): 1723638650065 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723638945460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.19): 1723638653130 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723638948534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638951595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638954658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638957720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638960779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638963834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638966891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638969950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638973009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638976077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638979154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638982211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638985267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638988323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638991380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638994440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723638997509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639000572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639003629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639006694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639009756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639012816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639015872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639018927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639022038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639025108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639028167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639031225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639034280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639037334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639040440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639043504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639046572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639049633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+manufacturer-stack.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+to-labor.gl.at.ply.gg:1039 => 127.0.0.1:1039 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723639052691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
